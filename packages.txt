@@ -1,3 +1,0 @@
-# This file tells Hugging Face Spaces / Streamlit Cloud
-# which system-level packages to install (if any).
-# Currently none needed — PyTorch is installed via pip.
